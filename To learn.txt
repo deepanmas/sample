@@ -1,0 +1,12 @@
+Bootstrap
+NodeJS
+AngularJS
+Programming Methodologies
+Project Management Professional
+.Net architect
+Agile methodology
+Sharepoint
+.net MVC
+Web API
+WCF Rest
+DB2
